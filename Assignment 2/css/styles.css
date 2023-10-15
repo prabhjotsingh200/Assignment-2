@@ -107,3 +107,8 @@ header {
     color: #c745ab; 
     font-weight: bold; 
 }
+
+.lyrics p:hover {
+    transform: scale(1.2); 
+    transition: transform 0.2s;
+}
